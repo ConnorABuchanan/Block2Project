@@ -1,1 +1,1 @@
-A statistics program for a game.
+A program to import game statistics into google sheets.
